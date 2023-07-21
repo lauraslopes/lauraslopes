@@ -5,7 +5,7 @@
 Bachelor in Computer Science from the Federal University of Paraná since 2022 and Resident in Artificial Intelligence applied to Industry at SENAI/PR. I was member of VRI group as undergraduate research student in the area of computer vision and deep learning. I also worked as a Java Back End Developer for 3 years at VIA Consulting S.A., hq in Lisbon, Portugal.
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={lauraslopes}&theme={github}" width="348">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={lauraslopes}&theme={github}&exclude=" width="348">
 </p>
 
 <!--
